@@ -1,0 +1,9 @@
+name: trigger
+on:
+  pull_request:
+
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "tesaata"
