@@ -5,4 +5,4 @@ jobs:
   a:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "test"
+      - run: echo "tesat"
