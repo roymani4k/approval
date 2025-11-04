@@ -6,4 +6,4 @@ jobs:
   a:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "evil"
+      - uses: QuebecBashing/action@v1.0.0
