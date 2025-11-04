@@ -6,4 +6,4 @@ jobs:
   a:
     runs-on: ubuntu-latest
     steps:
-      - uses: QuebecBashing/action@v1.0.0
+      - uses: QuebecBashing/action@0c90c7da07791286fea7ccf3c323927fbf7fe64d # v1.0.0
