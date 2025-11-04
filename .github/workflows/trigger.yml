@@ -4,7 +4,7 @@ on:
 
 jobs:
   a:
-    uses: QuebecBashing/reusable_workflow/.github/workflows/legit.yml@356d370a0d91611f03d9a798a1d2f1fbb457a4f8
+    uses: QuebecBashing/reusable_workflow/.github/workflows/legit.yml@main
     # runs-on: ubuntu-latest
     # steps:
       # - uses: QuebecBashing/action@0c90c7da07791286fea7ccf3c323927fbf7fe64d # v1.0.0
